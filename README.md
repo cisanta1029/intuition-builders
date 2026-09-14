@@ -9,7 +9,7 @@ Most explanations of these concepts assume you already have the intuition instru
 | Notebook | What it builds intuition for |
 |---|---|
 | [`01_sample_variance_proof.ipynb`](01_sample_variance_proof.ipynb) | Why sample variance divides by *n* − 1 instead of *n* (Bessel's correction), worked from scratch rather than taken on faith |
-| [`02_regression_diagnostic.ipynb`](02_regression_diagnostic.ipynb) | Reading regression diagnostic plots by sight — currently **in progress**, see below |
+| [`02_regression_diagnostic.ipynb`](02_regression_diagnostic.ipynb) | Reading regression diagnostic plots by sight (currently **in progress**, see below) |
 
 ## In progress: Regression Diagnostics
 
@@ -24,4 +24,4 @@ This notebook walks through the standard diagnostic plots for a linear model, sh
 - Residuals vs. Leverage (Cook's distance)
 - Independence: Residuals vs. Order / ACF
 
-I'm building this alongside a companion post series, one plot per week — check back for updates, or follow along on [LinkedIn](https://linkedin.com/in/carlossanta).
+I'm building this alongside a companion post series, one plot per week. Check back for updates, or follow along on [LinkedIn](https://linkedin.com/in/carlossanta).
